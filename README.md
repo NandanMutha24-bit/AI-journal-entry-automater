@@ -93,4 +93,4 @@ This first version is intentionally limited to **simple, two-account transaction
 
 ## Why this project
 
-This combines accounting knowledge, AI, and Python to automate a real bookkeeping task — while still respecting the fundamentals of double-entry bookkeeping rather than treating the AI as a black box. It's designed to grow: as the underlying accounting knowledge deepens, so does the tool, from a journal entry generator toward a complete accounting automation system.
+This combines accounting knowledge, AI, and Python to automate a real bookkeeping task, while still respecting the fundamentals of double-entry bookkeeping rather than treating the AI as a black box. It's designed to grow: as the underlying accounting knowledge deepens, so does the tool, from a journal entry generator toward a complete accounting automation system.
